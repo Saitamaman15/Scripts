@@ -80,6 +80,7 @@ public class TrygveMerge
                     break;
 
                 case "Silver Vindicator Sword":
+                case "Silver Vindicator Swords":
                 case "Silver Vindicator Hood":
                 case "Silver Vindicator Recruit":
                     Core.FarmingLogger(req.Name, quant);
